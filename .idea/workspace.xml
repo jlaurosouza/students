@@ -330,12 +330,12 @@
       <workItem from="1530134997283" duration="2782000" />
       <workItem from="1530145712907" duration="6596000" />
       <workItem from="1530187245067" duration="2217000" />
-      <workItem from="1530644309985" duration="232000" />
+      <workItem from="1530644309985" duration="738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17383000" />
+    <option name="totallyTimeSpent" value="17889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
@@ -346,7 +346,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3284553" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.297561" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19848485" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32954547" />
